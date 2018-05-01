@@ -31,3 +31,8 @@ https://github.com/nanfirstya/movie-ticket
 - 참석자: 김상우, 류지원, 박승혜, 이연주
 1. 요구사항명세서 세부 내용 확정
 2. 역할 분담
+
+## 0429 요구사항명세서 2차 회의
+- 참석자: 김상우, 류지원, 박승혜, 이연주
+1. User requirement 명세화
+2. 역할 분담
